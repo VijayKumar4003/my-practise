@@ -1,4 +1,4 @@
-import logo from './logo.svg';
+
 import './App.css';
 
 function App() {
@@ -6,6 +6,8 @@ function App() {
     <div className="App">
       <header className="App-header">
         Hello  Little Changes in Master Branch
+        Simple thing again i changed
+        
       </header>
     </div>
   );
