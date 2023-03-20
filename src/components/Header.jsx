@@ -1,13 +1,17 @@
+import './Header.css';
 
 function Header() {
   return (
     <div className="App">
-      <header className="App-header">
+      
+      <div id="Forst">
+
         Hello Hellow
         Again
 
+      </div>
+       
       
-      </header>
     </div>
   );
 }

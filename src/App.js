@@ -1,8 +1,5 @@
-import logo from './logo.svg';
 import './App.css';
-import './Header.css';
 import Header from './components/Header';
-
 
 function App() {
 
@@ -12,7 +9,7 @@ function App() {
         Hello
         This is the Best Code 
 
-      <Header/>
+       <Header/> The Header componet is called form here
 
 
       </header>
